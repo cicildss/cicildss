@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&amp;display=swap');
+      .card-bg { fill: #FFFFFF; stroke: #EAEAEA; stroke-width: 1; }
+      .card-title { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 13px; font-weight: 700; fill: #171717; letter-spacing: 0.5px; }
+      .card-sub { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 10px; font-weight: 500; fill: #777777; letter-spacing: 1px; }
+      .arrow { fill: #D989A8; font-family: sans-serif; font-size: 14px; font-weight: bold; }
+      .dot { fill: #E8A8C1; }
+      .flow-text { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 10px; font-weight: 600; fill: #D989A8; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <!-- Flow Summary Bar -->
+  <text x="450" y="24" text-anchor="middle" class="flow-text">CONTROLADORIA  ↓  DATA  ↓  PROCESS  ↓  TECHNOLOGY  ↓  AUTOMATION  ↓  RESULTS</text>
+
+  <!-- Grid of 6 Cards -->
+  <!-- Card 1 -->
+  <g transform="translate(15, 46)">
+    <rect width="132" height="92" rx="6" class="card-bg" />
+    <circle cx="116" cy="16" r="3" class="dot" />
+    <text x="14" y="42" class="card-title">Controladoria</text>
+    <text x="14" y="62" class="card-sub">GOVERNANÇA</text>
+    <text x="14" y="74" class="card-sub">&amp; CONTROLES</text>
+  </g>
+  <text x="154" y="98" class="arrow">→</text>
+
+  <!-- Card 2 -->
+  <g transform="translate(162, 46)">
+    <rect width="132" height="92" rx="6" class="card-bg" />
+    <circle cx="116" cy="16" r="3" class="dot" />
+    <text x="14" y="42" class="card-title">Data &amp; Analytics</text>
+    <text x="14" y="62" class="card-sub">MODELAGEM</text>
+    <text x="14" y="74" class="card-sub">&amp; SQL / QUERY</text>
+  </g>
+  <text x="301" y="98" class="arrow">→</text>
+
+  <!-- Card 3 -->
+  <g transform="translate(309, 46)">
+    <rect width="132" height="92" rx="6" class="card-bg" />
+    <circle cx="116" cy="16" r="3" class="dot" />
+    <text x="14" y="42" class="card-title">Processos</text>
+    <text x="14" y="62" class="card-sub">MAPEAMENTO</text>
+    <text x="14" y="74" class="card-sub">&amp; EFICIÊNCIA</text>
+  </g>
+  <text x="448" y="98" class="arrow">→</text>
+
+  <!-- Card 4 -->
+  <g transform="translate(456, 46)">
+    <rect width="132" height="92" rx="6" class="card-bg" />
+    <circle cx="116" cy="16" r="3" class="dot" />
+    <text x="14" y="42" class="card-title">Tecnologia</text>
+    <text x="14" y="62" class="card-sub">SISTEMAS &amp; DEV</text>
+    <text x="14" y="74" class="card-sub">DE SOLUÇÕES</text>
+  </g>
+  <text x="595" y="98" class="arrow">→</text>
+
+  <!-- Card 5 -->
+  <g transform="translate(603, 46)">
+    <rect width="132" height="92" rx="6" class="card-bg" />
+    <circle cx="116" cy="16" r="3" class="dot" />
+    <text x="14" y="42" class="card-title">Automação</text>
+    <text x="14" y="62" class="card-sub">RPA &amp; FLUXOS</text>
+    <text x="14" y="74" class="card-sub">INTELIGENTES</text>
+  </g>
+  <text x="742" y="98" class="arrow">→</text>
+
+  <!-- Card 6 -->
+  <g transform="translate(750, 46)">
+    <rect width="138" height="92" rx="6" class="card-bg" style="stroke: #D989A8;" />
+    <circle cx="122" cy="16" r="3" fill="#D989A8" />
+    <text x="14" y="42" class="card-title" style="fill: #D989A8;">Resultados</text>
+    <text x="14" y="62" class="card-sub">MENSURÁVEIS</text>
+    <text x="14" y="74" class="card-sub">&amp; ESTRATÉGIA</text>
+  </g>
+</svg>
