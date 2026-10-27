@@ -1,24 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="title desc">
-<title id="title">Maria Cecília Teixeira</title>
-<desc id="desc">Banner minimalista editorial em preto, marfim e vinho, com tipografia expressiva e monograma abstrato.</desc>
-<rect width="1200" height="360" fill="#171416"/>
-<rect x="0" y="0" width="9" height="360" fill="#8F263D"/>
-<circle cx="1010" cy="180" r="205" fill="#8F263D"/>
-<circle cx="1010" cy="180" r="153" fill="none" stroke="#F0EAE1" stroke-opacity=".5" stroke-width="1"/>
-<circle cx="1010" cy="180" r="112" fill="none" stroke="#F0EAE1" stroke-opacity=".25" stroke-width="1"/>
-<path d="M900 0H1200V360H1088Z" fill="#A8324B" opacity=".42"/>
-<path d="M1040 0L1200 0V360L950 360Z" fill="#171416" opacity=".25"/>
-<g fill="#F0EAE1">
-<text x="74" y="63" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="4">CONTROLADORIA · DADOS · TECNOLOGIA</text>
-<text x="68" y="159" font-family="Georgia,'Times New Roman',serif" font-size="69" letter-spacing="-2">Maria Cecília</text>
-<text x="68" y="232" font-family="Georgia,'Times New Roman',serif" font-size="69" letter-spacing="-2">Teixeira<tspan fill="#D77A87">.</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+<title id="title">Maria Cecília Teixeira | Controladoria, Dados, Sistemas e Automação</title>
+<desc id="desc">Banner editorial em vinho profundo, marfim e dourado, com uma composição arquitetônica inspirada em dados e estratégia.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#210b10"/><stop offset=".52" stop-color="#35101b"/><stop offset="1" stop-color="#160b10"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5e2bd"/><stop offset=".48" stop-color="#bd9164"/><stop offset="1" stop-color="#6d3c36"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b4475a" stop-opacity=".48"/><stop offset="1" stop-color="#f0eae1" stop-opacity=".035"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#8f263d" stop-opacity=".5"/><stop offset="1" stop-color="#8f263d" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#e8cba5" stroke-opacity=".13" stroke-width=".7"/></pattern>
+</defs>
+<rect width="1600" height="420" fill="url(#bg)"/>
+<rect width="1600" height="420" fill="url(#glow)" opacity=".8"/>
+<path d="M0 0H1600V8H0Z" fill="#b4475a" opacity=".8"/>
+<path d="M0 412H1600V420H0Z" fill="#b4475a" opacity=".35"/>
+<path d="M40 0V420" stroke="#e9d6b8" stroke-opacity=".2"/>
+<path d="M70 0V420" stroke="#8f263d" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#d8b98d" font-size="11" letter-spacing="4">
+<text x="108" y="76">NEGÓCIO  /  DADOS  /  TECNOLOGIA</text>
 </g>
-<line x1="74" y1="263" x2="480" y2="263" stroke="#8F263D" stroke-width="2"/>
-<text x="74" y="294" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#D6CFCA">Transformo problemas em processos mais inteligentes.</text>
-<text x="74" y="326" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="2.5" fill="#D77A87">PROCESSOS  /  ANÁLISE  /  AUTOMAÇÃO</text>
-<g transform="translate(1010 180)" fill="none" stroke="#F0EAE1" stroke-width="1.4">
-<path d="M-68 55V-54L0 24L68 -54V55"/>
-<path d="M-43 55V-12L0 36L43 -12V55" stroke-opacity=".5"/>
+<text x="102" y="174" font-family="Georgia,'Times New Roman',serif" font-size="68" letter-spacing="-1.7" fill="#f4ead8">Maria Cecília</text>
+<text x="102" y="246" font-family="Georgia,'Times New Roman',serif" font-size="68" letter-spacing="-1.7" fill="#f4ead8">Teixeira<tspan fill="#c35c6c">.</tspan></text>
+<path d="M105 276H176" stroke="#b4475a" stroke-width="4"/>
+<path d="M184 276H470" stroke="url(#gold)" stroke-width="1" opacity=".75"/>
+<text x="105" y="315" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2.6" fill="#eadac5">CONTROLADORIA  ·  DADOS  ·  SISTEMAS  ·  AUTOMAÇÃO</text>
+<text x="105" y="360" font-family="Georgia,'Times New Roman',serif" font-size="21" font-style="italic" fill="#d7c4ae">Transformando complexidade em clareza e resultado.</text>
+<!-- Architectural data structure -->
+<g transform="translate(845 8)">
+  <path d="M140 0H655L510 122H25Z" fill="url(#glass)" stroke="#cda57a" stroke-opacity=".7"/>
+  <path d="M255 0H655L478 170H80Z" fill="#8f263d" fill-opacity=".18" stroke="#f0d8b0" stroke-opacity=".6"/>
+  <path d="M330 0H590L405 212H135Z" fill="url(#glass)" stroke="url(#gold)" stroke-width="1.5"/>
+  <path d="M405 212L655 0V260L405 410Z" fill="#0e090c" fill-opacity=".42" stroke="#bd9164" stroke-opacity=".65"/>
+  <path d="M0 275L245 78L520 322L655 208" fill="none" stroke="url(#gold)" stroke-width="2"/>
+  <path d="M10 300L255 103L530 347L655 233" fill="none" stroke="#b4475a" stroke-width="7" stroke-opacity=".65"/>
+  <path d="M40 330L290 130L565 370" fill="none" stroke="#f1d6a9" stroke-width="1" stroke-opacity=".7"/>
+  <path d="M0 45H655M0 85H655M0 125H655M0 165H655M0 205H655M0 245H655M0 285H655M0 325H655" stroke="#f0eae1" stroke-opacity=".09"/>
+  <path d="M60 0V410M100 0V410M140 0V410M180 0V410M220 0V410M260 0V410M300 0V410M340 0V410M380 0V410M420 0V410M460 0V410M500 0V410M540 0V410M580 0V410M620 0V410" stroke="#f0eae1" stroke-opacity=".08"/>
+  <g fill="#f2d9ad" stroke="#6e3740" stroke-width="2">
+    <circle cx="245" cy="78" r="5"/><circle cx="405" cy="212" r="6"/><circle cx="520" cy="322" r="5"/><circle cx="330" cy="0" r="4"/>
+  </g>
+  <g fill="none" stroke="#e6c49a" stroke-width="1.4" opacity=".9">
+    <path d="M245 78H355V112H435"/><path d="M405 212H490V178H575"/><path d="M520 322V278H600"/>
+  </g>
+  <g fill="#f0e5d2" opacity=".8"><rect x="430" y="100" width="8" height="8"/><rect x="570" y="166" width="8" height="8"/><rect x="595" y="266" width="8" height="8"/></g>
+  <g transform="translate(455 282)" fill="#cda57a" opacity=".68">
+    <rect x="0" y="45" width="14" height="38"/><rect x="24" y="28" width="14" height="55"/><rect x="48" y="13" width="14" height="70"/><rect x="72" y="0" width="14" height="83"/>
+  </g>
+  <path d="M0 386C130 350 210 420 330 370S520 370 655 330" fill="none" stroke="#8f263d" stroke-width="30" stroke-opacity=".25"/>
 </g>
-<text x="1126" y="331" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2" fill="#F0EAE1" opacity=".8">MCT / 2026</text>
+<path d="M800 0V420" stroke="#cda57a" stroke-opacity=".25"/>
+<text x="1530" y="390" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="3" fill="#d8b98d" opacity=".8">MCT  /  2026</text>
 </svg>
