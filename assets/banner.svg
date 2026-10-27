@@ -1,31 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="title desc">
-<title id="title">Maria Cecília Teixeira | Negócio, dados e tecnologia</title>
-<desc id="desc">Identidade editorial inspirada em relatórios, planilhas e sistemas operacionais.</desc>
-<rect width="1200" height="360" rx="8" fill="#F0EAE1"/>
-<rect x="0" y="0" width="17" height="360" fill="#8F263D"/>
-<path d="M760 0H1200V360H690L760 0Z" fill="#171416"/>
-<path d="M760 0H1200V360H690" fill="none" stroke="#8F263D" stroke-width="2"/>
-<text x="70" y="58" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#8F263D">PORTFÓLIO PROFISSIONAL / 2026</text>
-<text x="66" y="146" font-family="Georgia,'Times New Roman',serif" font-size="62" fill="#171416">Maria Cecília</text>
-<text x="66" y="211" font-family="Georgia,'Times New Roman',serif" font-size="62" fill="#171416">Teixeira<tspan fill="#8F263D">.</tspan></text>
-<line x1="70" y1="244" x2="440" y2="244" stroke="#8F263D" stroke-width="3"/>
-<text x="70" y="279" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="1.7" fill="#171416">CONTROLADORIA / DADOS / SISTEMAS</text>
-<text x="70" y="309" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#625A56">Do problema operacional à solução que funciona.</text>
-<g transform="translate(790 43)">
-<text x="0" y="0" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#D77A87">COMO EU PENSO</text>
-<line x1="0" y1="20" x2="350" y2="20" stroke="#554047"/>
-<g font-family="Arial,Helvetica,sans-serif">
-<text x="0" y="57" font-size="12" fill="#BEB3B1">01</text><text x="42" y="57" font-size="19" fill="#F0EAE1">Entender</text><text x="350" y="57" text-anchor="end" font-size="11" fill="#D77A87">PROBLEMA</text>
-<line x1="0" y1="73" x2="350" y2="73" stroke="#554047"/>
-<text x="0" y="105" font-size="12" fill="#BEB3B1">02</text><text x="42" y="105" font-size="19" fill="#F0EAE1">Estruturar</text><text x="350" y="105" text-anchor="end" font-size="11" fill="#D77A87">PROCESSO</text>
-<line x1="0" y1="121" x2="350" y2="121" stroke="#554047"/>
-<text x="0" y="153" font-size="12" fill="#BEB3B1">03</text><text x="42" y="153" font-size="19" fill="#F0EAE1">Automatizar</text><text x="350" y="153" text-anchor="end" font-size="11" fill="#D77A87">TECNOLOGIA</text>
-<line x1="0" y1="169" x2="350" y2="169" stroke="#554047"/>
-<text x="0" y="201" font-size="12" fill="#BEB3B1">04</text><text x="42" y="201" font-size="19" fill="#F0EAE1">Mensurar</text><text x="350" y="201" text-anchor="end" font-size="11" fill="#D77A87">RESULTADO</text>
+<title id="title">Maria Cecília Teixeira</title>
+<desc id="desc">Banner minimalista editorial em preto, marfim e vinho, com tipografia expressiva e monograma abstrato.</desc>
+<rect width="1200" height="360" fill="#171416"/>
+<rect x="0" y="0" width="9" height="360" fill="#8F263D"/>
+<circle cx="1010" cy="180" r="205" fill="#8F263D"/>
+<circle cx="1010" cy="180" r="153" fill="none" stroke="#F0EAE1" stroke-opacity=".5" stroke-width="1"/>
+<circle cx="1010" cy="180" r="112" fill="none" stroke="#F0EAE1" stroke-opacity=".25" stroke-width="1"/>
+<path d="M900 0H1200V360H1088Z" fill="#A8324B" opacity=".42"/>
+<path d="M1040 0L1200 0V360L950 360Z" fill="#171416" opacity=".25"/>
+<g fill="#F0EAE1">
+<text x="74" y="63" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="4">CONTROLADORIA · DADOS · TECNOLOGIA</text>
+<text x="68" y="159" font-family="Georgia,'Times New Roman',serif" font-size="69" letter-spacing="-2">Maria Cecília</text>
+<text x="68" y="232" font-family="Georgia,'Times New Roman',serif" font-size="69" letter-spacing="-2">Teixeira<tspan fill="#D77A87">.</tspan></text>
 </g>
-<g transform="translate(0 237)">
-<rect width="350" height="37" fill="#28151B" stroke="#8F263D"/>
-<text x="14" y="23" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#D77A87">DADOS COM CONTEXTO. TECNOLOGIA COM PROPÓSITO.</text>
+<line x1="74" y1="263" x2="480" y2="263" stroke="#8F263D" stroke-width="2"/>
+<text x="74" y="294" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#D6CFCA">Transformo problemas em processos mais inteligentes.</text>
+<text x="74" y="326" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="2.5" fill="#D77A87">PROCESSOS  /  ANÁLISE  /  AUTOMAÇÃO</text>
+<g transform="translate(1010 180)" fill="none" stroke="#F0EAE1" stroke-width="1.4">
+<path d="M-68 55V-54L0 24L68 -54V55"/>
+<path d="M-43 55V-12L0 36L43 -12V55" stroke-opacity=".5"/>
 </g>
-</g>
+<text x="1126" y="331" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2" fill="#F0EAE1" opacity=".8">MCT / 2026</text>
 </svg>
