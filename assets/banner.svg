@@ -1,33 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-labelledby="title desc">
+  <title id="title">Maria Cecília Teixeira</title>
+  <desc id="desc">Controladoria, business intelligence, processos e tecnologia.</desc>
   <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&amp;family=Playfair+Display:ital,wght@0,600;1,400&amp;display=swap');
-      .bg { fill: #101014; }
-      .border { stroke: #29262D; stroke-width: 1; fill: none; }
-      .grid-line { stroke: #29262D; stroke-width: 1; stroke-dasharray: 4 4; }
-      .tag { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 10px; font-weight: 600; letter-spacing: 3px; fill: #B9B0B6; }
-      .title { font-family: 'Playfair Display', serif; font-size: 34px; font-weight: 600; fill: #F4F0F2; letter-spacing: 1.5px; }
-      .subtitle { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 13px; font-weight: 600; fill: #D989A8; letter-spacing: 3px; }
-      .accent-box { fill: #492A39; opacity: 0.8; }
-      .accent-dot { fill: #D989A8; }
-      .line-accent { stroke: #D989A8; stroke-width: 1.5; }
-    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D0D10"/>
+      <stop offset="0.6" stop-color="#151219"/>
+      <stop offset="1" stop-color="#21151D"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F1B6CC"/>
+      <stop offset="1" stop-color="#C96F96"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#FFFFFF" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
   </defs>
-  <rect width="900" height="240" rx="8" class="bg" />
-  <rect x="1" y="1" width="898" height="238" rx="7" class="border" />
-  <line x1="60" y1="0" x2="60" y2="240" class="grid-line" />
-  <line x1="840" y1="0" x2="840" y2="240" class="grid-line" />
-  <line x1="0" y1="50" x2="900" y2="50" class="grid-line" />
-  <line x1="0" y1="190" x2="900" y2="190" class="grid-line" />
-  <rect x="740" y="70" width="40" height="40" class="accent-box" rx="4" />
-  <circle cx="780" cy="130" r="18" stroke="#D989A8" stroke-width="1" fill="none" />
-  <circle cx="730" cy="140" r="3" class="accent-dot" />
-  <line x1="720" y1="80" x2="790" y2="80" class="line-accent" />
-  <circle cx="60" cy="50" r="3" class="accent-dot" />
-  <circle cx="840" cy="50" r="3" class="accent-dot" />
-  <circle cx="60" cy="190" r="3" fill="#F4F0F2" />
-  <circle cx="840" cy="190" r="3" fill="#F4F0F2" />
-  <text x="90" y="88" class="tag">DATA · PROCESS · TECHNOLOGY · AUTOMATION</text>
-  <text x="90" y="132" class="title">MARIA CECÍLIA TEIXEIRA</text>
-  <text x="90" y="162" class="subtitle">ANALISTA DE CONTROLADORIA</text>
+  <rect width="1200" height="330" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="14" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="13" fill="none" stroke="#51404A" stroke-opacity=".7"/>
+  <circle cx="1010" cy="150" r="104" fill="#D989A8" opacity=".08" filter="url(#glow)"/>
+  <path d="M0 275 C220 225 320 350 520 285 S860 230 1200 278" fill="none" stroke="#D989A8" stroke-opacity=".13" stroke-width="1"/>
+  <path d="M0 290 C220 240 320 365 520 300 S860 245 1200 293" fill="none" stroke="#D989A8" stroke-opacity=".09" stroke-width="1"/>
+  <rect x="72" y="48" width="5" height="26" rx="2.5" fill="url(#pink)"/>
+  <text x="92" y="65" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3.2" fill="#D989A8">BUSINESS  /  DATA  /  SYSTEMS</text>
+  <text x="72" y="139" font-family="Georgia, 'Times New Roman', serif" font-size="47" font-weight="400" letter-spacing=".3" fill="#F7F1F4">Maria Cecília</text>
+  <text x="72" y="190" font-family="Georgia, 'Times New Roman', serif" font-size="47" font-weight="400" letter-spacing=".3" fill="#F7F1F4">Teixeira<tspan fill="#D989A8">.</tspan></text>
+  <line x1="74" y1="218" x2="370" y2="218" stroke="#D989A8" stroke-width="1.5"/>
+  <text x="74" y="247" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.3" fill="#F4F0F2">CONTROLADORIA &amp; TRANSFORMAÇÃO DIGITAL</text>
+  <text x="74" y="273" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.1" fill="#BDB2B9">Processos mais inteligentes. Dados que orientam. Resultados que importam.</text>
+  <g transform="translate(835 64)">
+    <circle cx="130" cy="94" r="89" fill="none" stroke="#D989A8" stroke-opacity=".32" stroke-width="1"/>
+    <circle cx="130" cy="94" r="70" fill="none" stroke="#D989A8" stroke-opacity=".2" stroke-width="1" stroke-dasharray="3 7"/>
+    <circle cx="130" cy="94" r="48" fill="#D989A8" fill-opacity=".07" stroke="#D989A8" stroke-opacity=".65" stroke-width="1"/>
+    <text x="130" y="105" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="35" fill="url(#pink)">MT</text>
+    <circle cx="130" cy="5" r="4" fill="#F4F0F2"/>
+    <circle cx="219" cy="94" r="4" fill="#D989A8"/>
+    <circle cx="130" cy="183" r="4" fill="#D989A8"/>
+    <circle cx="41" cy="94" r="4" fill="#F4F0F2"/>
+    <path d="M36 213 L76 213 L96 193 L128 193 L153 164 L184 164 L204 142 L229 142" fill="none" stroke="#D989A8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="229" cy="142" r="3" fill="#F4F0F2"/>
+    <text x="130" y="246" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="700" letter-spacing="2.4" fill="#BDB2B9">INSIGHT → IMPACT</text>
+  </g>
+  <text x="1128" y="300" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2.5" fill="#8E818A">PORTFOLIO / 2026</text>
 </svg>
