@@ -115,32 +115,46 @@ Meu ponto de partida é a regra de negócio. A partir dela, organizo os dados, i
 
 ## 04 &nbsp; / &nbsp; Projetos em destaque
 
+<p><sub>ESTUDOS DE CASO · PROBLEMA → SOLUÇÃO → REGRAS → LIMITAÇÕES</sub></p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>01 / BUSINESS OPERATIONS</sub>
+      <sub>01 / OPERAÇÕES & DADOS</sub>
       <h3><a href="https://github.com/cicildss/custos-ecopower">Consulta de Produtos Protheus ↗</a></h3>
-      Aplicação para centralizar consultas operacionais de produtos, saldos por armazém, cadastro e notas fiscais de entrada.
+      <strong>Desafio</strong><br/>
+      Facilitar a consulta de produtos, saldos por armazém, cadastros e notas fiscais sem navegar por fontes separadas.
       <br/><br/>
-      <img src="https://img.shields.io/badge/REACT-24242B?style=flat-square&logo=react&logoColor=D77A87" alt="React" />
-      <img src="https://img.shields.io/badge/TYPESCRIPT-24242B?style=flat-square&logo=typescript&logoColor=D77A87" alt="TypeScript" />
+      <strong>Abordagem</strong><br/>
+      Interface React + TypeScript, API Node.js/Express e camada de dados com opções PostgreSQL e SQLite para cenários distintos de execução.
       <br/><br/>
-      <a href="https://github.com/cicildss/custos-ecopower">Ver repositório ↗</a>
+      <strong>Foco técnico</strong><br/>
+      Busca, relacionamento entre entidades, paginação, filtro por filial e tratamento de registros.
+      <br/><br/>
+      <sub>React · TypeScript · Node.js · PostgreSQL · SQLite</sub>
+      <br/><br/>
+      <a href="https://github.com/cicildss/custos-ecopower">Explorar documentação ↗</a>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / FINANCIAL AUTOMATION</sub>
-      <h3><a href="https://github.com/cicildss/sap-budget-reconciliation">SAP Budget Reconciliation ↗</a></h3>
-      Projeto voltado à organização e reconciliação de informações orçamentárias, com foco em reduzir tarefas repetitivas e padronizar saídas.
+      <sub>02 / CONTROLADORIA & AUTOMAÇÃO</sub>
+      <h3>SAP Budget Reconciliation</h3>
+      <strong>Desafio</strong><br/>
+      Estruturar a conferência de avisos de orçamento do SAP e relacioná-los às linhas de uma planilha de rateio.
       <br/><br/>
-      <img src="https://img.shields.io/badge/PYTHON-24242B?style=flat-square&logo=python&logoColor=D77A87" alt="Python" />
-      <img src="https://img.shields.io/badge/AUTOMATION-24242B?style=flat-square&logo=githubactions&logoColor=D77A87" alt="Automation" />
+      <strong>Abordagem</strong><br/>
+      Definição de regras para correspondência entre partidas e linhas, classificação de ocorrências, consulta de responsáveis e preparação de saídas para revisão.
       <br/><br/>
-      <a href="https://github.com/cicildss/sap-budget-reconciliation">Ver repositório ↗</a>
+      <strong>Foco técnico</strong><br/>
+      Rastreabilidade, tratamento de exceções, exportação estruturada e validação humana antes de encaminhamentos financeiros.
+      <br/><br/>
+      <sub>SAP · Excel · Regras de negócio · Automação</sub>
+      <br/><br/>
+      <em>Estudo de caso em evolução. O código-fonte permanece em repositório privado.</em>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Projetos corporativos restritos ou com dados internos não são publicados neste portfólio.</sub></p>
+<p align="center"><sub>Os estudos descrevem objetivos e regras documentadas. Resultados quantitativos só serão publicados quando houver medição verificável; dados corporativos não são expostos.</sub></p>
 
 ## 05 &nbsp; / &nbsp; Atividade no GitHub
 
