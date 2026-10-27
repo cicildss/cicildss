@@ -2,9 +2,9 @@
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700&amp;display=swap');
-      .footer-line { stroke: #EAEAEA; stroke-width: 1; }
-      .footer-text { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 10.5px; font-weight: 600; fill: #777777; letter-spacing: 2px; }
-      .highlight { fill: #171717; font-weight: 700; }
+      .footer-line { stroke: #29262D; stroke-width: 1; }
+      .footer-text { font-family: 'Plus Jakarta Sans', sans-serif; font-size: 10.5px; font-weight: 600; fill: #B9B0B6; letter-spacing: 2px; }
+      .highlight { fill: #F4F0F2; font-weight: 700; }
       .accent-dot { fill: #D989A8; }
     </style>
   </defs>
