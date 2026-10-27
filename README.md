@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3200&pause=900&color=D77A87&center=true&vCenter=true&width=850&lines=business+%C3%97+technology;data+%C3%97+decisions;process+%C3%97+automation;controladoria+%C3%97+tecnologia" alt="Business x technology • data x decisions • process x automation • controladoria x tecnologia" />
+
+<br/>
+
 <a href="https://www.linkedin.com/in/mariaceciliateixeira123/"><img src="https://img.shields.io/badge/LINKEDIN-8F263D?style=flat-square&logo=linkedin&logoColor=F4EFEA" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://github.com/cicildss?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-24242B?style=flat-square&logo=github&logoColor=B4475A" alt="Explore projects" /></a>
