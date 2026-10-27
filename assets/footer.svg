@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="100%" height="100%">
-  <defs><style>
-    .line{stroke:#38262B;stroke-width:1}.txt{font-family:Arial,Helvetica,sans-serif;font-size:10px;font-weight:600;fill:#BEB3B1;letter-spacing:2px}.hi{fill:#F4EFEA;font-weight:700}.dot{fill:#B4475A}
-  </style></defs>
-  <line x1="30" y1="30" x2="180" y2="30" class="line"/><circle cx="190" cy="30" r="2.5" class="dot"/>
-  <text x="450" y="34" text-anchor="middle" class="txt">BUILDING WHERE BUSINESS MEETS TECHNOLOGY <tspan class="hi">· MARIA CECÍLIA TEIXEIRA</tspan></text>
-  <circle cx="710" cy="30" r="2.5" class="dot"/><line x1="720" y1="30" x2="870" y2="30" class="line"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 70" width="100%" height="100%">
+<rect width="900" height="70" fill="#F0EAE1" rx="4"/><rect width="7" height="70" fill="#8F263D"/>
+<text x="30" y="29" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#8F263D">MARIA CECÍLIA TEIXEIRA</text>
+<text x="30" y="49" font-family="Georgia,'Times New Roman',serif" font-size="17" fill="#171416">Negócio bem entendido. Solução bem construída.</text>
+<text x="865" y="39" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#625A56">CONTROLADORIA × TECNOLOGIA</text>
 </svg>
