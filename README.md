@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/monogram-mct.svg" alt="Monograma MCT" width="82" />
-
 <img src="./assets/banner.svg" alt="Maria Cecília Teixeira | Controladoria e transformação digital" width="100%" />
 
 <br/>
