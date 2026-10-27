@@ -14,9 +14,11 @@
 
 <div align="center">
 
-<sub>CONTROLADORIA&nbsp; · &nbsp;BUSINESS INTELLIGENCE&nbsp; · &nbsp;PROCESSOS&nbsp; · &nbsp;AUTOMAÇÃO</sub>
+<sub>NEGÓCIO × DADOS × SISTEMAS</sub>
 
-### Transformo problemas operacionais em soluções mais inteligentes.
+### Eu gosto de resolver o que está no meio do caminho.
+
+Do processo que ninguém mapeou à informação que ninguém consolidou, procuro entender a causa, organizar a lógica e construir uma solução que funcione na rotina.
 
 </div>
 
@@ -26,13 +28,13 @@
 
 Sou **Analista de Controladoria** e trabalho na interseção entre negócio, dados, processos e tecnologia.
 
-Gosto de entender o problema antes de escolher a ferramenta. A partir daí, conecto análise financeira e operacional, indicadores, controles e sistemas para construir rotinas mais claras, decisões mais bem fundamentadas e soluções que façam sentido na prática.
+Meu trabalho cruza Controladoria, análise de dados, melhoria de processos e desenvolvimento de soluções. Antes de automatizar, procuro entender a regra de negócio, a origem da informação e o que precisa melhorar de verdade.
 
-**Minha lógica de trabalho:** entender → estruturar → automatizar → medir.
+**Meu método:** investigar a causa, desenhar o processo, construir a solução e acompanhar o resultado.
 
 <img src="./assets/currently.svg" alt="Fluxo de trabalho: Controladoria, dados, processos, tecnologia, automação e resultados" width="100%" />
 
-## 02 &nbsp; / &nbsp; Frentes de atuação
+## 02 &nbsp; / &nbsp; Onde eu atuo
 
 <table>
   <tr>
@@ -51,7 +53,7 @@ Gosto de entender o problema antes de escolher a ferramenta. A partir daí, cone
   </tr>
 </table>
 
-## 03 &nbsp; / &nbsp; Stack de trabalho
+## 03 &nbsp; / &nbsp; Ferramentas que uso
 
 <p><strong>Dados & análise</strong></p>
 <img src="https://img.shields.io/badge/Power_BI-24242B?style=flat-square&logo=powerbi&logoColor=B4475A" alt="Power BI" />
@@ -79,7 +81,7 @@ Gosto de entender o problema antes de escolher a ferramenta. A partir daí, cone
 <img src="https://img.shields.io/badge/Fluig-24242B?style=flat-square&logo=diagramsdotnet&logoColor=B4475A" alt="Fluig" />
 <img src="https://img.shields.io/badge/Git-24242B?style=flat-square&logo=git&logoColor=B4475A" alt="Git" />
 
-## 04 &nbsp; / &nbsp; Projeto em destaque
+## 04 &nbsp; / &nbsp; Projeto público
 
 <table>
   <tr>
@@ -100,16 +102,16 @@ Gosto de entender o problema antes de escolher a ferramenta. A partir daí, cone
 
 <p align="center"><sub>Outras soluções corporativas em desenvolvimento não são exibidas publicamente quando envolvem ambientes ou informações restritas.</sub></p>
 
-## 05 &nbsp; / &nbsp; GitHub activity
+## 05 &nbsp; / &nbsp; Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cicildss&show_icons=true&hide_title=true&bg_color=0D0D10&title_color=B4475A&text_color=E7E2E5&icon_color=B4475A&border_color=29262D&ring_color=B4475A&hide_border=false" alt="GitHub statistics" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cicildss&show_icons=true&hide_title=true&bg_color=171416&title_color=D77A87&text_color=F0EAE1&icon_color=B4475A&border_color=554047&ring_color=B4475A&hide_border=false" alt="GitHub statistics" height="155" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicildss&layout=compact&hide_title=true&bg_color=0D0D10&title_color=B4475A&text_color=E7E2E5&border_color=29262D&hide_border=false" alt="Most used languages" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicildss&layout=compact&hide_title=true&bg_color=171416&title_color=D77A87&text_color=F0EAE1&border_color=554047&hide_border=false" alt="Most used languages" height="155" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cicildss&bg_color=0D0D10&color=E7E2E5&line=B4475A&point=F4F0F2&area=true&area_color=48232B&hide_border=true" alt="GitHub contribution activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cicildss&bg_color=171416&color=F0EAE1&line=B4475A&point=D77A87&area=true&area_color=48232B&hide_border=true" alt="GitHub contribution activity" width="100%" />
 </div>
 
 <div align="center">
@@ -128,6 +130,6 @@ Gosto de entender o problema antes de escolher a ferramenta. A partir daí, cone
 
 <br/><br/>
 
-<sub>Construído com intenção. Guiado por dados. Orientado a resultados.</sub>
+<sub>Entender o negócio é parte do trabalho. Fazer a solução funcionar também.</sub>
 
 </div>
