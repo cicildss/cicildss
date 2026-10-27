@@ -40,6 +40,12 @@ Meu trabalho cruza Controladoria, análise de dados, melhoria de processos e des
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=2200&pause=500&color=D77A87&center=true&vCenter=true&width=760&lines=01+%2F+ENTENDER+%E2%86%92+02+%2F+ESTRUTURAR;02+%2F+ESTRUTURAR+%E2%86%92+03+%2F+AUTOMATIZAR;03+%2F+AUTOMATIZAR+%E2%86%92+04+%2F+MENSURAR;CLAREZA+NO+PROCESSO.+IMPACTO+NO+RESULTADO." alt="Etapas do método de trabalho em animação" />
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=2800&pause=700&color=B4475A&center=true&vCenter=true&width=760&lines=investigar+%E2%86%92+estruturar+%E2%86%92+automatizar+%E2%86%92+mensurar;menos+retrabalho%2C+mais+clareza;dados+que+viram+decis%C3%A3o;processos+que+geram+resultado" alt="Investigar, estruturar, automatizar e mensurar. Menos retrabalho, mais clareza. Dados que viram decisão. Processos que geram resultado." />
 
 </div>
@@ -133,6 +139,10 @@ Meu trabalho cruza Controladoria, análise de dados, melhoria de processos e des
 <div align="center">
 
 <img src="./assets/footer.svg" alt="Building where business meets technology" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=12&duration=2600&pause=650&color=8F263D&center=true&vCenter=true&width=720&lines=NEG%C3%93CIO+%C3%97+TECNOLOGIA;DADOS+QUE+VIRAM+DECIS%C3%83O;PROCESSOS+QUE+GERAM+RESULTADO;AUTOMA%C3%87%C3%83O+COM+PROP%C3%93SITO" alt="Assinatura animada: negócio, tecnologia, dados e automação" />
 
 <br/><br/>
 
