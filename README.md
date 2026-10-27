@@ -57,7 +57,7 @@ Gosto de entender o problema antes de escolher a ferramenta. A partir daí, cone
 <img src="https://img.shields.io/badge/Power_BI-24242B?style=flat-square&logo=powerbi&logoColor=D989A8" alt="Power BI" />
 <img src="https://img.shields.io/badge/SQL-24242B?style=flat-square&logo=postgresql&logoColor=D989A8" alt="SQL" />
 <img src="https://img.shields.io/badge/Excel-24242B?style=flat-square&logo=microsoftexcel&logoColor=D989A8" alt="Excel" />
-<img src="https://img.shields.io/badge/Power_Query-24242B?style=flat-square&logo=microsoftpowerpoint&logoColor=D989A8" alt="Power Query" />
+<img src="https://img.shields.io/badge/Power_Query-24242B?style=flat-square&logo=powerquery&logoColor=D989A8" alt="Power Query" />
 
 <p><strong>Desenvolvimento & automação</strong></p>
 <img src="https://img.shields.io/badge/Python-24242B?style=flat-square&logo=python&logoColor=D989A8" alt="Python" />
