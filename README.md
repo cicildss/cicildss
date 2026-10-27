@@ -1,10 +1,16 @@
 <div align="center">
 
+<img src="./assets/monogram-mct.svg" alt="Monograma MCT" width="82" />
+
 <img src="./assets/banner.svg" alt="Maria Cecília Teixeira | Controladoria e transformação digital" width="100%" />
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3200&pause=900&color=D77A87&center=true&vCenter=true&width=850&lines=business+%C3%97+technology;data+%C3%97+decisions;process+%C3%97+automation;controladoria+%C3%97+tecnologia" alt="Business x technology • data x decisions • process x automation • controladoria x tecnologia" />
+
+<br/>
+
+<img src="./assets/terminal-profile.svg" alt="Terminal visual com áreas de atuação e método de trabalho" width="100%" />
 
 <br/>
 
@@ -69,6 +75,18 @@ Meu trabalho cruza Controladoria, análise de dados, melhoria de processos e des
   </tr>
 </table>
 
+## 03 &nbsp; / &nbsp; Como conecto as disciplinas
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=2400&pause=500&color=B4475A&center=true&vCenter=true&width=780&lines=CONTROLADORIA+%E2%86%92+ENTENDER+O+N%C3%9AMERO;PROCESSOS+%E2%86%92+ENCONTRAR+A+CAUSA;TECNOLOGIA+%E2%86%92+CONSTRUIR+A+SOLU%C3%87%C3%83O;AUTOMA%C3%87%C3%83O+%E2%86%92+GANHAR+ESCALA" alt="Controladoria, processos, tecnologia e automação em sequência" />
+
+</div>
+
+Meu ponto de partida é a regra de negócio. A partir dela, organizo os dados, identifico oportunidades de melhoria e construo soluções que possam ser compreendidas, mantidas e usadas na rotina.
+
+---
+
 ## 03 &nbsp; / &nbsp; Ferramentas que uso
 
 <p><strong>Dados & análise</strong></p>
@@ -97,26 +115,34 @@ Meu trabalho cruza Controladoria, análise de dados, melhoria de processos e des
 <img src="https://img.shields.io/badge/Fluig-24242B?style=flat-square&logo=diagramsdotnet&logoColor=B4475A" alt="Fluig" />
 <img src="https://img.shields.io/badge/Git-24242B?style=flat-square&logo=git&logoColor=B4475A" alt="Git" />
 
-## 04 &nbsp; / &nbsp; Projeto público
+## 04 &nbsp; / &nbsp; Projetos em destaque
 
 <table>
   <tr>
-    <td width="100%" valign="top">
-      <sub>FULL-STACK APPLICATION &nbsp; / &nbsp; BUSINESS OPERATIONS</sub>
+    <td width="50%" valign="top">
+      <sub>01 / BUSINESS OPERATIONS</sub>
       <h3><a href="https://github.com/cicildss/custos-ecopower">Consulta de Produtos Protheus ↗</a></h3>
-      Aplicação para consulta de produtos, saldo por armazém, cadastro e notas fiscais de entrada com fornecedor. O projeto conecta dados operacionais a uma experiência de consulta centralizada.
+      Aplicação para centralizar consultas operacionais de produtos, saldos por armazém, cadastro e notas fiscais de entrada.
       <br/><br/>
-      <img src="https://img.shields.io/badge/REACT-24242B?style=flat-square&logo=react&logoColor=B4475A" alt="React" />
-      <img src="https://img.shields.io/badge/TYPESCRIPT-24242B?style=flat-square&logo=typescript&logoColor=B4475A" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/NODE.JS-24242B?style=flat-square&logo=nodedotjs&logoColor=B4475A" alt="Node.js" />
-      <img src="https://img.shields.io/badge/POSTGRESQL-24242B?style=flat-square&logo=postgresql&logoColor=B4475A" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/REACT-24242B?style=flat-square&logo=react&logoColor=D77A87" alt="React" />
+      <img src="https://img.shields.io/badge/TYPESCRIPT-24242B?style=flat-square&logo=typescript&logoColor=D77A87" alt="TypeScript" />
       <br/><br/>
-      <a href="https://github.com/cicildss/custos-ecopower">Explorar repositório</a>
+      <a href="https://github.com/cicildss/custos-ecopower">Ver repositório ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / FINANCIAL AUTOMATION</sub>
+      <h3><a href="https://github.com/cicildss/sap-budget-reconciliation">SAP Budget Reconciliation ↗</a></h3>
+      Projeto voltado à organização e reconciliação de informações orçamentárias, com foco em reduzir tarefas repetitivas e padronizar saídas.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PYTHON-24242B?style=flat-square&logo=python&logoColor=D77A87" alt="Python" />
+      <img src="https://img.shields.io/badge/AUTOMATION-24242B?style=flat-square&logo=githubactions&logoColor=D77A87" alt="Automation" />
+      <br/><br/>
+      <a href="https://github.com/cicildss/sap-budget-reconciliation">Ver repositório ↗</a>
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Outras soluções corporativas em desenvolvimento não são exibidas publicamente quando envolvem ambientes ou informações restritas.</sub></p>
+<p align="center"><sub>Projetos corporativos restritos ou com dados internos não são publicados neste portfólio.</sub></p>
 
 ## 05 &nbsp; / &nbsp; Atividade no GitHub
 
