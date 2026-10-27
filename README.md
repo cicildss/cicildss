@@ -65,12 +65,12 @@ Meu foco é transformar necessidades reais do negócio em soluções práticas, 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/cicildss/sap-budget-reconciliation">SAP Budget Reconciliation</a></h4>
+      <h4>SAP Budget Reconciliation</h4>
       Projeto para estruturar a análise de estouros orçamentários a partir de informações do SAP e planilhas de rateio, relacionando centro de custo, conta contábil e responsáveis.
       <br/><br/>
       <img src="https://img.shields.io/badge/CONTROLADORIA-24242B?style=flat-square&labelColor=24242B&color=D989A8" alt="Controladoria" />
       <img src="https://img.shields.io/badge/PROCESS_AUTOMATION-24242B?style=flat-square&labelColor=24242B&color=D989A8" alt="Process automation" />
-      <img src="https://img.shields.io/badge/WEB_APP-24242B?style=flat-square&labelColor=24242B&color=D989A8" alt="Web app" />
+      <br/><sub>Projeto em repositório privado.</sub>
     </td>
     <td width="50%" valign="top">
       <h4>Corporate analytics & internal audit</h4>
