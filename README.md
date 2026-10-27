@@ -1,267 +1,109 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="./assets/banner.svg" alt="Maria Cecília Teixeira - Banner" width="100%" />
+<img src="./assets/banner.svg" alt="Maria Cecília Teixeira | Controladoria, dados e tecnologia" width="100%" />
 
 <br/>
 
-<!-- TYPING ANIMATION SUBTITLE -->
 <a href="https://github.com/cicildss">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=13&duration=3200&pause=1000&color=171717&center=true&vcenter=true&width=600&height=30&lines=business+%C3%97+technology;data+%C3%97+decisions;process+%C3%97+automation;controladoria+%C3%97+tecnologia" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1000&color=D989A8&background=0D0D10&center=true&vCenter=true&width=640&height=35&lines=business+%C3%97+technology;data+%C3%97+decisions;process+%C3%97+automation;controladoria+%C3%97+technology" alt="Business, data, processes and technology" />
 </a>
 
+<p>
+  <a href="https://www.linkedin.com/in/mariaceciliateixeira123/"><img src="https://img.shields.io/badge/LINKEDIN-D989A8?style=for-the-badge&logo=linkedin&logoColor=101014" alt="LinkedIn" /></a>
+  <a href="https://github.com/cicildss?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-24242B?style=for-the-badge&logo=github&logoColor=F4F0F2" alt="Repositories" /></a>
+</p>
+
 </div>
 
-<br/>
-
 ---
 
-### `01 / ABOUT`
+### 01 / PROFILE
 
-Sou **Analista de Controladoria** e tenho uma trajetória profissional pautada pela convergência estratégica entre negócios, dados, processos e tecnologia. Meu foco é atuar diretamente na inteligência operacional, unindo visão analítica de gestão à capacidade técnica de implementação de soluções digitais.
+Sou **Analista de Controladoria**, com interesse na interseção entre **negócios, dados, processos e tecnologia**.
 
-Meu trabalho diário abrange a estruturação de análises financeiras e operacionais, controles internos, acompanhamento de indicadores-chave (KPIs), governança de dados em sistemas corporativos e otimização contínua de processos. Compreendo que a tecnologia deve servir como alavanca estratégica para transformar dados brutos em decisões fundamentadas.
+Atuo conectando análise financeira e operacional, indicadores, controles e sistemas corporativos. Também desenvolvo ferramentas digitais e automações para organizar fluxos de trabalho, apoiar decisões e reduzir atividades manuais.
 
-Além da atuação analítica, desenvolvo aplicações e ferramentas customizadas para solucionar gargalos operacionais específicos. Através de automação, modelagem de dados e interfaces web estruturadas, converto necessidades de negócios em fluxos de trabalho organizados, mensuráveis e altamente eficientes.
+Meu foco é transformar necessidades reais do negócio em soluções práticas, com clareza, rastreabilidade e atenção aos resultados.
 
-<br/>
+> **Business insight. Process clarity. Technology that delivers.**
 
----
+### 02 / FOCUS AREAS
 
-### `02 / CURRENTLY`
-
-<div align="center">
-  <img src="./assets/currently.svg" alt="Currently Pipeline" width="100%" />
-</div>
-
-<br/>
-
----
-
-### `03 / STACK`
-
-<br/>
-
-<table width="100%" stroke="none">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h4><code>CODE & DEVELOPMENT</code></h4>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-171717?style=flat-square&logo=html5&logoColor=E8A8C1" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-171717?style=flat-square&logo=css3&logoColor=E8A8C1" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=E8A8C1" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=E8A8C1" alt="TypeScript" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=E8A8C1" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-171717?style=flat-square&logo=vite&logoColor=E8A8C1" alt="Vite" />
-        <img src="https://img.shields.io/badge/PHP-171717?style=flat-square&logo=php&logoColor=E8A8C1" alt="PHP" />
-        <img src="https://img.shields.io/badge/SQL-171717?style=flat-square&logo=postgresql&logoColor=E8A8C1" alt="SQL" />
-      </p>
+    <td width="33%" valign="top">
+      <h4>CONTROLADORIA</h4>
+      Planejamento orçamentário, análise de variações, indicadores, controles internos e suporte à tomada de decisão.
     </td>
-    <td width="50%" valign="top">
-      <h4><code>DATA & BI</code></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Power_BI-171717?style=flat-square&logo=powerbi&logoColor=E8A8C1" alt="Power BI" />
-        <img src="https://img.shields.io/badge/SQL-171717?style=flat-square&logo=mysql&logoColor=E8A8C1" alt="SQL" />
-        <img src="https://img.shields.io/badge/Excel-171717?style=flat-square&logo=microsoftexcel&logoColor=E8A8C1" alt="Excel" />
-        <img src="https://img.shields.io/badge/Power_Query-171717?style=flat-square&logo=powerquery&logoColor=E8A8C1" alt="Power Query" />
-      </p>
+    <td width="33%" valign="top">
+      <h4>PROCESSOS & AUTOMAÇÃO</h4>
+      Mapeamento de processos, melhoria contínua, automação de tarefas e padronização de rotinas operacionais.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><code>ENTERPRISE SYSTEMS</code></h4>
-      <p>
-        <img src="https://img.shields.io/badge/SAP-171717?style=flat-square&logo=sap&logoColor=E8A8C1" alt="SAP" />
-        <img src="https://img.shields.io/badge/TOTVS_Protheus-171717?style=flat-square&logo=target&logoColor=E8A8C1" alt="TOTVS Protheus" />
-        <img src="https://img.shields.io/badge/Fluig-171717?style=flat-square&logo=diagramsdotnet&logoColor=E8A8C1" alt="Fluig" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><code>TOOLS & AUTOMATION</code></h4>
-      <p>
-        <img src="https://img.shields.io/badge/RPA-171717?style=flat-square&logo=uipath&logoColor=E8A8C1" alt="RPA" />
-        <img src="https://img.shields.io/badge/Supabase-171717?style=flat-square&logo=supabase&logoColor=E8A8C1" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=E8A8C1" alt="Git" />
-        <img src="https://img.shields.io/badge/VS_Code-171717?style=flat-square&logo=visualstudiocode&logoColor=E8A8C1" alt="VS Code" />
-      </p>
+    <td width="33%" valign="top">
+      <h4>DADOS & TECNOLOGIA</h4>
+      BI, SQL, sistemas corporativos e aplicações web voltadas a necessidades de negócio.
     </td>
   </tr>
 </table>
 
-<br/>
+### 03 / TOOLKIT
 
----
+**Data & BI**
 
-### `04 / SELECTED PROJECTS`
+<img src="https://img.shields.io/badge/Power_BI-24242B?style=flat-square&logo=powerbi&logoColor=D989A8" alt="Power BI" /> <img src="https://img.shields.io/badge/SQL-24242B?style=flat-square&logo=postgresql&logoColor=D989A8" alt="SQL" /> <img src="https://img.shields.io/badge/Excel-24242B?style=flat-square&logo=microsoftexcel&logoColor=D989A8" alt="Excel" /> <img src="https://img.shields.io/badge/Power_Query-24242B?style=flat-square&logo=microsoftpowerpoint&logoColor=D989A8" alt="Power Query" />
 
-<br/>
+**Development**
 
-<table width="100%">
+<img src="https://img.shields.io/badge/HTML5-24242B?style=flat-square&logo=html5&logoColor=D989A8" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-24242B?style=flat-square&logo=css3&logoColor=D989A8" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-24242B?style=flat-square&logo=javascript&logoColor=D989A8" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-24242B?style=flat-square&logo=typescript&logoColor=D989A8" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-24242B?style=flat-square&logo=react&logoColor=D989A8" alt="React" /> <img src="https://img.shields.io/badge/Vite-24242B?style=flat-square&logo=vite&logoColor=D989A8" alt="Vite" /> <img src="https://img.shields.io/badge/Python-24242B?style=flat-square&logo=python&logoColor=D989A8" alt="Python" /> <img src="https://img.shields.io/badge/PHP-24242B?style=flat-square&logo=php&logoColor=D989A8" alt="PHP" />
+
+**Enterprise systems & workflow**
+
+<img src="https://img.shields.io/badge/SAP-24242B?style=flat-square&logo=sap&logoColor=D989A8" alt="SAP" /> <img src="https://img.shields.io/badge/TOTVS_Protheus-24242B?style=flat-square&logo=target&logoColor=D989A8" alt="TOTVS Protheus" /> <img src="https://img.shields.io/badge/Fluig-24242B?style=flat-square&logo=diagramsdotnet&logoColor=D989A8" alt="Fluig" /> <img src="https://img.shields.io/badge/Git-24242B?style=flat-square&logo=git&logoColor=D989A8" alt="Git" /> <img src="https://img.shields.io/badge/Supabase-24242B?style=flat-square&logo=supabase&logoColor=D989A8" alt="Supabase" />
+
+### 04 / SELECTED WORK
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4><strong>EcoPower Insight</strong></h4>
-      <p>Plataforma estratégica para gestão, auditoria contínua, acompanhamento de indicadores de desempenho e refinamento de processos operacionais.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=E8A8C1" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=E8A8C1" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Vite-171717?style=flat-square&logo=vite&logoColor=E8A8C1" alt="Vite" />
-        <img src="https://img.shields.io/badge/Supabase-171717?style=flat-square&logo=supabase&logoColor=E8A8C1" alt="Supabase" />
-      </p>
-      <p>
-        <a href="https://github.com/cicildss/ecopower-insight">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-D989A8?style=flat-square&logo=github&logoColor=FFFFFF" alt="View Project" />
-        </a>
-      </p>
+      <h4><a href="https://github.com/cicildss/sap-budget-reconciliation">SAP Budget Reconciliation</a></h4>
+      Projeto para estruturar a análise de estouros orçamentários a partir de informações do SAP e planilhas de rateio, relacionando centro de custo, conta contábil e responsáveis.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CONTROLADORIA-24242B?style=flat-square&labelColor=24242B&color=D989A8" alt="Controladoria" />
+      <img src="https://img.shields.io/badge/PROCESS_AUTOMATION-24242B?style=flat-square&labelColor=24242B&color=D989A8" alt="Process automation" />
+      <img src="https://img.shields.io/badge/WEB_APP-24242B?style=flat-square&labelColor=24242B&color=D989A8" alt="Web app" />
     </td>
     <td width="50%" valign="top">
-      <h4><strong>Auditoria Interna EcoPower</strong></h4>
-      <p>Sistema especializado desenvolvido para a organização, execução, monitoramento em tempo real e rastreabilidade de auditorias internas corporativas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=E8A8C1" alt="React" />
-        <img src="https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=E8A8C1" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Supabase-171717?style=flat-square&logo=supabase&logoColor=E8A8C1" alt="Supabase" />
-      </p>
-      <p>
-        <a href="https://github.com/cicildss/auditoria_interna-ecopower">
-          <img src="https://img.shields.io/badge/VIEW_PROJECT-D989A8?style=flat-square&logo=github&logoColor=FFFFFF" alt="View Project" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><strong>Portal PO</strong></h4>
-      <p>Solução estruturada para planejamento orçamentário, padronização do preenchimento de Pedidos de Orçamento (PO) e otimização do fluxo de aprovação.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Processos-171717?style=flat-square" />
-        <img src="https://img.shields.io/badge/Orçamento-171717?style=flat-square" />
-        <img src="https://img.shields.io/badge/Automação-171717?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><strong>OperaMind / JORYON</strong></h4>
-      <p>Projeto focado no emprego de Inteligência Artificial e automação avançada de processos para ganhos de escala e eficiência corporativa.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Automação-171717?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI_Workflows-171717?style=flat-square" />
-        <img src="https://img.shields.io/badge/Eficiência-171717?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><strong>NF Horwin</strong></h4>
-      <p>Ferramenta voltada ao processamento, validação e estruturação automatizada de dados extraídos de notas fiscais para compliance e controladoria.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Dados-171717?style=flat-square" />
-        <img src="https://img.shields.io/badge/Notas_Fiscais-171717?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQL-171717?style=flat-square&logo=postgresql&logoColor=E8A8C1" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Empty Cell for Editorial Balance -->
+      <h4>Corporate analytics & internal audit</h4>
+      Desenvolvimento de soluções internas voltadas à organização de informações, acompanhamento de indicadores e apoio a rotinas de auditoria e análise operacional.
+      <br/><br/>
+      <sub>Projetos corporativos. Repositórios privados ou acesso restrito.</sub>
     </td>
   </tr>
 </table>
 
-<br/>
-
----
-
-### `05 / GITHUB ACTIVITY`
-
-<br/>
+### 05 / GITHUB INSIGHTS
 
 <div align="center">
-  <a href="https://github.com/cicildss">
-    <img src="https://github-readme-stats.vercel.app/api?username=cicildss&show_icons=true&theme=default&bg_color=ffffff&title_color=171717&text_color=555555&icon_color=d989a8&border_color=eaeaea&hide_border=false" alt="Maria Cecília's GitHub Stats" height="165" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/cicildss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicildss&layout=compact&bg_color=ffffff&title_color=171717&text_color=555555&border_color=eaeaea&hide_border=false" alt="Top Languages" height="165" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=cicildss&show_icons=true&hide_title=true&bg_color=0D0D10&title_color=D989A8&text_color=E7E2E5&icon_color=D989A8&border_color=29262D&hide_border=false" alt="GitHub statistics" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicildss&layout=compact&hide_title=true&bg_color=0D0D10&title_color=D989A8&text_color=E7E2E5&border_color=29262D&hide_border=false" alt="Most used languages" height="160" />
 </div>
 
-<br/>
-
----
-
-### `06 / ACTIVITY GRAPH`
-
-<br/>
-
 <div align="center">
-  <a href="https://github.com/cicildss">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cicildss&bg_color=ffffff&color=171717&line=d989a8&point=f7dde7&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cicildss&bg_color=0D0D10&color=E7E2E5&line=D989A8&point=F4F0F2&area=true&area_color=492A39&hide_border=true" alt="GitHub contribution activity" width="100%" />
 </div>
 
-<br/>
-
----
-
-### `07 / TROPHIES`
-
-<br/>
-
 <div align="center">
-  <a href="https://github.com/cicildss">
-    <img src="https://github-profile-trophy.vercel.app/?username=cicildss&theme=flat&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" width="90%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/cicildss/cicildss/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake in dark mode" width="100%" />
 </div>
 
-<br/>
-
 ---
-
-### `08 / CONTRIBUTIONS`
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/cicildss">
-    <img src="https://raw.githubusercontent.com/cicildss/cicildss/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Grid" width="100%" />
-  </a>
-</div>
-
-<br/>
-
----
-
-### `09 / CONNECT`
-
-<br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mariaceciliateixeira123/">
-  <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=D989A8" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/cicilds/">
-  <img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=D989A8" alt="Instagram" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/cicildss">
-  <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=D989A8" alt="GitHub" />
-</a>
-
-</div>
+<img src="./assets/footer.svg" alt="Building where business meets technology" width="100%" />
 
 <br/>
 
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="./assets/footer.svg" alt="Footer Banner" width="100%" />
-
-<br/>
-
-<a href="https://github.com/cicildss">
-  <img src="https://komarev.com/ghpvc/?username=cicildss&color=d989a8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=cicildss&color=D989A8&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
