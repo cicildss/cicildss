@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180" role="img" aria-labelledby="t d">
+<title id="t">Monograma MCT</title><desc id="d">Monograma editorial Maria Cecília Teixeira em vinho e dourado.</desc>
+<rect x="2" y="2" width="176" height="176" rx="4" fill="#211016" stroke="#BD9164" stroke-width="1.5"/>
+<rect x="10" y="10" width="160" height="160" fill="none" stroke="#8F263D" stroke-width=".8"/>
+<path d="M24 32V148M156 32V148" stroke="#BD9164" stroke-opacity=".65"/>
+<text x="90" y="93" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="66" fill="#F0EAE1" letter-spacing="-5">M<tspan fill="#D77A87">C</tspan></text>
+<path d="M42 111H138" stroke="#BD9164" stroke-width="1"/>
+<text x="90" y="134" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="5" fill="#E8CBA5">TEIXEIRA</text>
+</svg>
