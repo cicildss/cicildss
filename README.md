@@ -59,7 +59,7 @@ Gosto de entender o problema antes de escolher a ferramenta. A partir daí, cone
 <img src="https://img.shields.io/badge/Excel-24242B?style=flat-square&logo=microsoftexcel&logoColor=D989A8" alt="Excel" />
 <img src="https://img.shields.io/badge/Power_Query-24242B?style=flat-square&logo=powerquery&logoColor=D989A8" alt="Power Query" />
 
-<p><strong>Desenvolvimento & automação</strong></p>
+<p><strong>Linguagens, frameworks & desenvolvimento</strong></p>
 <img src="https://img.shields.io/badge/Python-24242B?style=flat-square&logo=python&logoColor=D989A8" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-24242B?style=flat-square&logo=javascript&logoColor=D989A8" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-24242B?style=flat-square&logo=typescript&logoColor=D989A8" alt="TypeScript" />
@@ -69,12 +69,15 @@ Gosto de entender o problema antes de escolher a ferramenta. A partir daí, cone
 <img src="https://img.shields.io/badge/CSS3-24242B?style=flat-square&logo=css3&logoColor=D989A8" alt="CSS3" />
 <img src="https://img.shields.io/badge/PHP-24242B?style=flat-square&logo=php&logoColor=D989A8" alt="PHP" />
 
+<p><strong>Bancos de dados</strong></p>
+<img src="https://img.shields.io/badge/SQLite-24242B?style=flat-square&logo=sqlite&logoColor=D989A8" alt="SQLite" />
+<img src="https://img.shields.io/badge/PostgreSQL-24242B?style=flat-square&logo=postgresql&logoColor=D989A8" alt="PostgreSQL" />
+
 <p><strong>Sistemas & fluxo de trabalho</strong></p>
 <img src="https://img.shields.io/badge/SAP-24242B?style=flat-square&logo=sap&logoColor=D989A8" alt="SAP" />
 <img src="https://img.shields.io/badge/TOTVS_Protheus-24242B?style=flat-square&logo=target&logoColor=D989A8" alt="TOTVS Protheus" />
 <img src="https://img.shields.io/badge/Fluig-24242B?style=flat-square&logo=diagramsdotnet&logoColor=D989A8" alt="Fluig" />
 <img src="https://img.shields.io/badge/Git-24242B?style=flat-square&logo=git&logoColor=D989A8" alt="Git" />
-<img src="https://img.shields.io/badge/PostgreSQL-24242B?style=flat-square&logo=postgresql&logoColor=D989A8" alt="PostgreSQL" />
 
 ## 04 &nbsp; / &nbsp; Projeto em destaque
 
