@@ -38,6 +38,12 @@ Meu trabalho cruza Controladoria, análise de dados, melhoria de processos e des
 
 <img src="./assets/currently.svg" alt="Fluxo de trabalho: Controladoria, dados, processos, tecnologia, automação e resultados" width="100%" />
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=2800&pause=700&color=B4475A&center=true&vCenter=true&width=760&lines=investigar+%E2%86%92+estruturar+%E2%86%92+automatizar+%E2%86%92+mensurar;menos+retrabalho%2C+mais+clareza;dados+que+viram+decis%C3%A3o;processos+que+geram+resultado" alt="Investigar, estruturar, automatizar e mensurar. Menos retrabalho, mais clareza. Dados que viram decisão. Processos que geram resultado." />
+
+</div>
+
 ## 02 &nbsp; / &nbsp; Onde eu atuo
 
 <table>
