@@ -159,9 +159,7 @@ Meu ponto de partida é a regra de negócio. A partir dela, organizo os dados, i
 ## 05 &nbsp; / &nbsp; Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cicildss&show_icons=true&hide_title=true&bg_color=171416&title_color=D77A87&text_color=F0EAE1&icon_color=B4475A&border_color=554047&ring_color=B4475A&hide_border=false" alt="GitHub statistics" height="155" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicildss&layout=compact&hide_title=true&bg_color=171416&title_color=D77A87&text_color=F0EAE1&border_color=554047&hide_border=false" alt="Most used languages" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicildss&layout=compact&hide_title=true&bg_color=171416&title_color=D77A87&text_color=F0EAE1&border_color=554047&hide_border=false" alt="Linguagens mais utilizadas" height="155" />
 </div>
 
 <div align="center">
